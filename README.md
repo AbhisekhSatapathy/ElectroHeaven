@@ -1,6 +1,6 @@
 # ElectroHeaven
 An e-commerce platform...
-# ElectroHeaven E-Commerce Website
+# ElectroHeaven E-Commerce Website...
 
 Welcome to ElectroHeaven, your ultimate destination for all things electronic! This e-commerce website is designed to provide a seamless and enjoyable shopping experience for electronics enthusiasts, offering a wide range of products from smartphones and laptops to home appliances and accessories.
 
